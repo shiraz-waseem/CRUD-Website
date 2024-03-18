@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "crud_dotnet_api.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "crud_dotnet_api.Model.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "crud_dotnet_api.Controllers.EmployeeController",
     "Method": "AddEmployee",
     "RelativePath": "api/Employee",

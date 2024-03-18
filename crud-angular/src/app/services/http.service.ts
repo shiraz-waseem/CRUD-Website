@@ -34,4 +34,14 @@ export class HttpService {
   deleteEmployee(employeeId: number) {
     return this.http.delete(this.apiUrl + '/api/Employee/' + employeeId);
   }
+
+  login(email: string, password: string) {
+    // return kre ga aik token is lia woh passed and object type ka huga
+
+    // aik observable return kre ga tw return keyword
+    return this.http.post<{ token: string }>(this.apiUrl + '/api/Auth/login', {
+      email: email,
+      password: password,
+    });
+  }
 }

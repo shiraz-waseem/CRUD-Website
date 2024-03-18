@@ -1,105 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7C583D-4C58-4C1D-BE4C-2C9071A547ED}|crud-dotnet-api\\crud-dotnet-api.csproj|e:\\angular projects\\crud website\\crud-dotnet-api\\crud-dotnet-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7C583D-4C58-4C1D-BE4C-2C9071A547ED}|crud-dotnet-api\\crud-dotnet-api.csproj|solutionrelative:crud-dotnet-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Migrations\\20240315231238_Initial Setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:crud-dotnet-api\\Migrations\\20240315231238_Initial Setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7C583D-4C58-4C1D-BE4C-2C9071A547ED}|crud-dotnet-api\\crud-dotnet-api.csproj|e:\\angular projects\\crud website\\crud-dotnet-api\\crud-dotnet-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7C583D-4C58-4C1D-BE4C-2C9071A547ED}|crud-dotnet-api\\crud-dotnet-api.csproj|solutionrelative:crud-dotnet-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7C583D-4C58-4C1D-BE4C-2C9071A547ED}|crud-dotnet-api\\crud-dotnet-api.csproj|e:\\angular projects\\crud website\\crud-dotnet-api\\crud-dotnet-api\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7C583D-4C58-4C1D-BE4C-2C9071A547ED}|crud-dotnet-api\\crud-dotnet-api.csproj|solutionrelative:crud-dotnet-api\\data\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7C583D-4C58-4C1D-BE4C-2C9071A547ED}|crud-dotnet-api\\crud-dotnet-api.csproj|e:\\angular projects\\crud website\\crud-dotnet-api\\crud-dotnet-api\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7C583D-4C58-4C1D-BE4C-2C9071A547ED}|crud-dotnet-api\\crud-dotnet-api.csproj|solutionrelative:crud-dotnet-api\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240315231238_Initial Setup.cs",
-              "DocumentMoniker": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Migrations\\20240315231238_Initial Setup.cs",
-              "RelativeDocumentMoniker": "crud-dotnet-api\\Migrations\\20240315231238_Initial Setup.cs",
-              "ToolTip": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Migrations\\20240315231238_Initial Setup.cs",
-              "RelativeToolTip": "crud-dotnet-api\\Migrations\\20240315231238_Initial Setup.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T23:12:38.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Data\\Employee.cs",
-              "RelativeDocumentMoniker": "crud-dotnet-api\\Data\\Employee.cs",
-              "ToolTip": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Data\\Employee.cs",
-              "RelativeToolTip": "crud-dotnet-api\\Data\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T23:08:26.851Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Program.cs",
-              "RelativeDocumentMoniker": "crud-dotnet-api\\Program.cs",
-              "ToolTip": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Program.cs",
-              "RelativeToolTip": "crud-dotnet-api\\Program.cs",
-              "ViewState": "AQIAABcAAABAGOAJA7wlwBwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T21:26:23.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Data\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "crud-dotnet-api\\Data\\EmployeeRepository.cs",
-              "ToolTip": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Data\\EmployeeRepository.cs",
-              "RelativeToolTip": "crud-dotnet-api\\Data\\EmployeeRepository.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAowCkAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:03:19.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "crud-dotnet-api\\Controllers\\EmployeeController.cs",
-              "ToolTip": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "crud-dotnet-api\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAgwDMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-15T18:03:13.254Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

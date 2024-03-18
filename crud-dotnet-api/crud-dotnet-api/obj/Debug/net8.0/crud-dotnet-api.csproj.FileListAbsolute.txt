@@ -134,3 +134,5 @@ E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.
 E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\crud-dotnet-api.pdb
 E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\crud-dotnet-api.genruntimeconfig.cache
 E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\ref\crud-dotnet-api.dll
+E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\crud-dotnet-api.sourcelink.json
+E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
