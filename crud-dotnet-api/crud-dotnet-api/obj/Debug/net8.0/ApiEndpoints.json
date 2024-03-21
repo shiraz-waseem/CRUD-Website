@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "crud_dotnet_api.Controllers.AuthController",
+    "Method": "GoogleLogin",
+    "RelativePath": "api/Auth/google-login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "crud_dotnet_api.Model.GoogleLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "crud_dotnet_api.Controllers.AuthController",
     "Method": "Login",
     "RelativePath": "api/Auth/login",
     "HttpMethod": "POST",

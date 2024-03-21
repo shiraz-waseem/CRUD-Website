@@ -136,3 +136,9 @@ E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.
 E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\ref\crud-dotnet-api.dll
 E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\obj\Debug\net8.0\crud-dotnet-api.sourcelink.json
 E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\bin\Debug\net8.0\Google.Apis.dll
+E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\bin\Debug\net8.0\Google.Apis.Auth.dll
+E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\bin\Debug\net8.0\Google.Apis.Core.dll
+E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\bin\Debug\net8.0\System.Management.dll
+E:\Angular Projects\CRUD Website\crud-dotnet-api\crud-dotnet-api\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll

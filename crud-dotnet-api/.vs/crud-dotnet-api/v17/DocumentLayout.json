@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7C583D-4C58-4C1D-BE4C-2C9071A547ED}|crud-dotnet-api\\crud-dotnet-api.csproj|e:\\angular projects\\crud website\\crud-dotnet-api\\crud-dotnet-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7C583D-4C58-4C1D-BE4C-2C9071A547ED}|crud-dotnet-api\\crud-dotnet-api.csproj|solutionrelative:crud-dotnet-api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "crud-dotnet-api\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Angular Projects\\CRUD Website\\crud-dotnet-api\\crud-dotnet-api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "crud-dotnet-api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAgwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:30:32.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

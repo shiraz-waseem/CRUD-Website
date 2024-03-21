@@ -44,4 +44,14 @@ export class HttpService {
       password: password,
     });
   }
+
+  // return post mein is jwt token
+  googleLogin(idToken: string) {
+    return this.http.post<{ token: string }>(
+      this.apiUrl + '/api/Auth/google-login',
+      {
+        idToken: idToken,
+      }
+    );
+  }
 }
